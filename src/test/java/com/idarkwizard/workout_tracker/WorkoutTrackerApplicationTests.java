@@ -1,10 +1,10 @@
-package com.idarkwizard.workuttracker;
+package com.idarkwizard.workout_tracker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WorkutTrackerApplicationTests {
+class WorkoutTrackerApplicationTests {
 
     @Test
     void contextLoads() {

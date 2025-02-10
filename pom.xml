@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.idarkwizard</groupId>
-    <artifactId>workut-tracker</artifactId>
+    <artifactId>workout-tracker</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>workut-tracker</name>
     <description>workut-tracker</description>
